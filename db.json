@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the post body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is the post body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "title": "Post Four",
+      "body": "This is the body",
+      "publishedAt": "10-02-2020",
+      "id": "cCT3qyY"
+    },
+    {
+      "title": "Post Five",
+      "body": "Body for Post Five",
+      "publishedAt": "2020-10-13",
+      "id": "f88uBOb"
+    }
+  ],
+  "users": [
+    {
+      "name": "Mohana Venkatraman",
+      "email": "mohanadesi@gmail.com",
+      "id": "VVd3u4N"
+    },
+    {
+      "name": "Desi Valli",
+      "email": "desi.valli@gmail.com",
+      "id": "NjyG5W_"
+    }
+  ]
+}
